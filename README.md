@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OOP,Python,Javascript.**
 
-- 📫 How to reach me **imranjaved1073@gmail.com**
+- 📫 You can reach me **imranjaved1073@gmail.com**
 
 - ⚡ Fun fact **I think I am Seriuos(Funny😁)**
 
