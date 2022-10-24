@@ -27,10 +27,10 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <a href="https://github.com/imranjaved1073">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imranjaved1073&show_icons=true&locale=en" alt="imranjaved1073"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&show_icons=true&locale=en&layout=compact" alt="imranjaved1073"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imranjaved1073&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en" alt="imranjaved1073"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&layout=compact&langs_count=8&theme=algolia" alt="imranjaved1073"/>
 </a>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranjaved1073&" alt="imranjaved1073" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranjaved1073&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="imranjaved1073" />
 </p>
 </p>
   
