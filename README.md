@@ -33,7 +33,4 @@
 </p>
 </p>
   
-
-## Contribution Graph
-[![ImranJaved's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imranjaved1073&theme=rogue)](https://github.com/imranjaved1073)
   
