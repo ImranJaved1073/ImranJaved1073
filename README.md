@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/imran-javed-01b629247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranjaved" height="30" width="40" /></a>
 <a href="https://www.facebook.com/immijanansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imranjaved" height="30" width="40" /></a>
-<a href="https://instagram.com/the_imranjaved_ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_imranjaved_ansari" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_imran.javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_imranjaved_ansari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
