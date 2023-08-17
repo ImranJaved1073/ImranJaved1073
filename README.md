@@ -30,10 +30,9 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
+<p>  <img height="310em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&layout=donut&langs_count=8&theme=algolia" alt="imranjaved1073"/></p>
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=imranjaved1073&show=reviews,prs_merged_percentage&theme=radical" alt="imranjaved1073"/> </p>
-
-   <p>  <img height="310em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&layout=donut&langs_count=8&theme=algolia" alt="imranjaved1073"/></p>
  
  <p ><img  width= "60%" src="https://github-readme-streak-stats.herokuapp.com/?user=imranjaved1073&show_icons=true&locale=en&layout=demo&theme=radical&hide_border=true" alt="imranjaved1073" /> </p>
    
