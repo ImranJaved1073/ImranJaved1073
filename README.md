@@ -8,7 +8,7 @@
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjaved1073&label=Profile%20views&color=0e75b6&style=flat" alt="imranjaved1073" /> </p>
 
 
-- 🔭 I’m currently working on **Calculator App using Android Studio.**
+- 🔭 I’m currently working on **To-Do List App using Android Studio.**
 
 - 🌱 I’m currently learning **Android Application Development, Website Development and Graphics Designing.**
 
