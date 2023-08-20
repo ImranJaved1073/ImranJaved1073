@@ -1,11 +1,9 @@
 # Hi 👋, <b>I'm Imran Javed.</b>
 ## A passionate Software Engineering Student from Pakistan.
 
-
 <p><img align="center" /></p>
 <b>Profile Views</b><br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjaved1073&label=Profile%20views&color=0e75b6&style=flat" alt="imranjaved1073" /> </p>
-
 
 - 🔭 I’m currently working on **To-Do List App using Android Studio.**
 
