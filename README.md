@@ -29,7 +29,7 @@
 
 Stats|Streak|Languages
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranjaved1073&theme=rose)|[![GitHub Streak](https://streak-stats.demolab.com/?user=imranjaved1073&theme=rose&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/langs?username=imranjaved1073&layout=compact&langs_count=8&theme=rose)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranjaved1073&theme=moltack)|[![GitHub Streak](https://streak-stats.demolab.com/?user=imranjaved1073&theme=moltack&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&layout=compact&langs_count=8&theme=moltack)|
 
   
   
