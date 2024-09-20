@@ -5,10 +5,6 @@
 <b>Profile Views</b><br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjaved1073&label=Profile%20views&color=0e75b6&style=flat" alt="imranjaved1073" /> </p>
 
-- 🔭 I’m currently working on **EGrocery Website using ASP.NET Entity Framework.**
-
-- 🌱 I’m currently learning **Android Application Development, Website Development and Graphics Designing.**
-
 - 📫 You can reach me via **imranjaved1073@gmail.com**
 
 
