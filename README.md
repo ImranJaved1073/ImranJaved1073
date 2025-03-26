@@ -1,12 +1,19 @@
-# Hi 👋, <b>I'm Imran Javed.</b>
-## Software Engineer.
+# Hi 👋, I'm **Imran Javed**  
+### 🚀 **Software Engineer | Problem Solver | Tech Enthusiast**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjaved1073&label=Profile%20views&color=75b60e&style=flat"  alt="imranjaved1073" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=imranjaved1073&label=Profile%20Views&color=75b60e&style=flat" alt="imranjaved1073" />
+</p>
 
-📫 You can reach me via **imranjaved1073@gmail.com**
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="100%" />
+</p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 **Connect with Me**
+📫 **Reach me via:** **imranjaved1073@gmail.com**  
+
 <p align="left">
 <a href="https://www.linkedin.com/in/imran-javed-01b629247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranjaved" height="30" width="40" /></a>
 <a href="https://www.facebook.com/immijanansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imranjaved" height="30" width="40" /></a>
@@ -16,12 +23,40 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/imranjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/imranjaved" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+---
 
+## 💻 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,html,css,bootstrap,jquery,kotlin,markdown" /><br/>
+  <img src="https://skillicons.dev/icons?i=dotnet,azure,firebase,mysql,sqlite,postman,swagger,githubactions,git,github,gitlab,docker" />
+</p>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+---
 
-Stats|Streak|Languages
-|---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranjaved1073&theme=moltack)|[![GitHub Streak](https://streak-stats.demolab.com/?user=imranjaved1073&theme=moltack&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&layout=compact&langs_count=8&theme=moltack)|
+## 🚀 **GitHub Analytics**
+### 📊 Stats | 🔥 Streak | 📌 Top Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranjaved1073&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=imranjaved1073&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&ring=888888" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imranjaved1073&layout=compact&langs_count=8&theme=radical" />
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imranjaved1073&theme=radical&margin-w=5&row=1" />
+</p>
+
+---
+
+## 🚀 **Fun Facts About Me**
+💡 Passionate about **Software Development, Problem Solving, & Web Development**  
+📖 Always learning new tech stacks & frameworks  
+💬 Feel free to **reach out** for collaborations, projects, or just a chat!  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Let's+Code+Something+Amazing!;Happy+Coding!+🚀">
+</p>
