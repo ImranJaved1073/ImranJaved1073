@@ -1,5 +1,5 @@
 # Hi 👋, <b>I'm Imran Javed.</b>
-## A passionate Software Engineering Student from Pakistan.
+## Software Engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranjaved1073&label=Profile%20views&color=75b60e&style=flat"  alt="imranjaved1073" /> </p>
 
